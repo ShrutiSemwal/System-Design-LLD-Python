@@ -1,5 +1,5 @@
 """
-Notes taken from: https://algomaster.io/learn/lld/encapsulation
+Notes taken from: https://algomaster.io/learn/lld
 1. Abstraction is about creating a simplified view of a system that highlights the essential features while suppressing the irrelevant details.
 
 2. Although closely related, abstraction and encapsulation serve distinct purposes and work at different levels:

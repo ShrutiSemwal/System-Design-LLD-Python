@@ -1,5 +1,5 @@
 """
-Notes taken from: https://algomaster.io/learn/lld/encapsulation
+Notes taken from: https://algomaster.io/learn/lld
 Encapsulation = Data hiding + Controlled access 
 Example: Payment Processor
 

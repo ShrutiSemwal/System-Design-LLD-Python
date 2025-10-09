@@ -1,5 +1,5 @@
 """
-Notes taken from: https://algomaster.io/learn/lld/encapsulation
+Notes taken from: https://algomaster.io/learn/lld
 
 1. Inheritance enables code reuse by letting you define common logic in a base class and then extend or specialize it in multiple derived classes.
 
